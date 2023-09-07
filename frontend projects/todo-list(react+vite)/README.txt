@@ -16,22 +16,20 @@ Before you start, make sure you have the following software installed on your co
    npm install -g create-vite@latest
 Create a React Project: To initialize a React project, run the following command:
 
-bash
+
 create-vite todo-project --template react
 Select JavaScript SWC: Ensure that you select JavaScript SWC as the JavaScript compiler during project setup.
 
 Install Dependencies: Navigate to your project folder (e.g., cd todo-project) and install the project dependencies:
 
-bash
-Copy code
+
+
 npm install
 Add Your Code: Add your project-specific code files to this directory.
 
 Running the Project
 Once you have completed the above steps and added your code, you can start the TODO project:
 
-bash
-Copy code
 npm run dev
 This will launch the development server, and you can access the project in your web browser.
 
@@ -42,12 +40,4 @@ This README was written by a developer proficient in JavaScript, HTML, CSS, and 
 
 For any questions or support related to this project, you can contact the author.
 
-rust
-Copy code
-
 This consolidated README includes all the setup instructions, information about prerequisites, running the project, and a brief about the author for additional context. You can further customize it as needed for your project.
-Copy
-Copy HTML
-
-Read Aloud
-
