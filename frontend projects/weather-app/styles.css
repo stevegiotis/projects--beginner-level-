@@ -67,20 +67,20 @@ body {
   
   .description {
     text-transform: capitalize;
-    margin-left: 8px;
+    margin-left: 10px;
   }
   
   .weather.loading {
     visibility: hidden;
-    max-height: 20px;
+    max-height: 23px;
     position: relative;
   }
   
   .weather.loading:after {
     visibility: visible;
-    content: "Loading...";
+    content: "loading...";
     color: white;
     position: absolute;
     top: 0;
-    left: 20px;
+    left: 22px;
   }
