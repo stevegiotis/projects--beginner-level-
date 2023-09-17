@@ -14,7 +14,6 @@ export default function App() {
       ]
     })
 
-    // It seems like you're trying to reset some input field or variable here, but there's no declaration for `setNewItem` in your code. Make sure to define it if needed.
   }
 
   function toggleTodo(id, status) {
