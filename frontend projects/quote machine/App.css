@@ -1,0 +1,39 @@
+.quoteBox {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* This ensures the quote box is centered vertically on the entire viewport height. */
+  text-align: center; /* Center-align the text inside the box. */
+}
+
+#text {
+  font-size: 24px; /* Adjust the font size as needed. */
+  margin-bottom: 10px; /* Add some space between the quote and author. */
+}
+
+#author {
+  font-size: 18px; /* Adjust the font size as needed. */
+  margin-bottom: 20px; /* Add more space between the author and the button. */
+}
+
+#new-quote {
+  background-color: #007BFF; /* Customize the button's background color. */
+  color: #FFF; /* Set text color for the button. */
+  padding: 10px 20px; /* Adjust padding for the button. */
+  border: none; /* Remove the button border. */
+  cursor: pointer;
+  transition: background-color 0.3s ease; /* Add a smooth transition effect. */
+}
+
+#new-quote:hover {
+  background-color: #0056b3; /* Change background color on hover. */
+}
+
+button {
+  border-radius: 15px;
+}
+
+body{
+  background-color: #f7cd5b;
+}
