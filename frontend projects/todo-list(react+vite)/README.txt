@@ -32,12 +32,3 @@ Once you have completed the above steps and added your code, you can start the T
 
 npm run dev
 This will launch the development server, and you can access the project in your web browser.
-
-Feel free to customize this README further to include project-specific details and instructions. Good luck with your TODO Project!
-
-About the Author:
-This README was written by a developer proficient in JavaScript, HTML, CSS, and Python for front-end and back-end development. The author also has experience with frameworks like React, MongoDB, Bootstrap, and more.
-
-For any questions or support related to this project, you can contact the author.
-
-This consolidated README includes all the setup instructions, information about prerequisites, running the project, and a brief about the author for additional context. You can further customize it as needed for your project.
